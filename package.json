@@ -1,0 +1,26 @@
+```json
+{
+  "name": "health-and-safety-app",
+  "version": "1.0.0",
+  "description": "An app to help users understand the health and safety implications of specific work activities",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.6.10",
+    "@supabase/supabase-js": "^2.10.0",
+    "solid-markdown": "^2.0.13",
+    "docx": "^8.3.2",
+    "file-saver": "^2.0.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.1.4",
+    "vite-plugin-solid": "^2.5.0"
+  }
+}
+```
